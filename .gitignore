@@ -1,0 +1,21 @@
+# Model checkpoints — too large for git (7-66MB each), kept on Google Drive instead.
+# Only results.json / evaluation_*.json / TensorBoard event files (all small, text
+# or event logs) are tracked, so the real numbers are still in the repo.
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
