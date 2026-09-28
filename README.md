@@ -72,8 +72,8 @@ assignment's own instruction not to claim a 10% gain unless the data supports it
 | Member | Owns |
 |---|---|
 | Akshata Madavi | Baseline (Step 1) + shared infrastructure: preprocessing wrappers, DQN network, checkpoint/TensorBoard pipeline |
-| Parth Maradia | Step 2a — Boltzmann/softmax exploration |
-| Pratham Gala | Step 2b — NoisyNet exploration, and Step 3 — PER (built on NoisyNet) |
+| Parth Maradia | Step 2 — both exploration alternatives: Boltzmann/softmax and NoisyNet |
+| Pratham Gala | Step 3 — PER (built on NoisyNet, the Step-2 winner) + weekly progress report generation |
 
 ## Checkpoints
 
